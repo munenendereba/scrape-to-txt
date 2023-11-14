@@ -1,12 +1,12 @@
-# Bubble Sort in JavaScript
+# Scrape Website and Save to .txt file
 
 ## Problem
 
-Implement a function that sorts an array of numbers using the "bubble sort" algorithm.
+Implement website scraper to .txt using Axios and Cheerio in Node.js
 
 ## Running
 
-Run using the following command: `node .\bubblesort.js`
+Run using the following command: `npm run dev`
 
 ## Authors
 
